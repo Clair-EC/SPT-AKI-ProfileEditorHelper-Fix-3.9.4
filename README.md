@@ -7,7 +7,7 @@ Uninstaling or deleting the helper in ProfileEditor means you will have to reapp
 Instructions:
 1. Follow the original instructions: https://github.com/SkiTles55/SPT-AKI-Profile-Editor/blob/5ed91be35a2653bbdfca5ab5e3ae290faf19a67c/Guidelines/ModHelperENG.md
 2. On step 5 you will recive a red message. Close the server.
-3. Move the fix files into your spt directory. Choose replace files.
+3. Move the fix files (user folder) into your spt directory. Choose replace files.
 4. Launch the game. 
 5. Launch the server again, this time you should get the green message, and the server will start hosting.
 6. Launch the Profile Editor, the DB should now be correct.
