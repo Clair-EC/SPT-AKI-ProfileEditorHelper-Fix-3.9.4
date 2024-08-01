@@ -15,11 +15,9 @@ Instructions:
 Some of these steps are probably unnecessary, I just haven't tested them, this is how it worked on my machine.
 
 Disclaimer:
-This is a botch. Without ChatGpt this wouldn't exist, my typescript knowledge was precisely 0 when I started this, also shout out to reading the documentation. I created this in like 8 hours, 5 of which I should have been asleep. I typically only write projects for myself, but since its been a month I figured I would publish this.
+This is a botch. Without ChatGpt this wouldn't exist, my typescript knowledge was precisely 0 when I started this, also shout out to reading the documentation. I created this in like 10 hours, 5 of which I should have been asleep. I typically only write projects for myself, but since its been a month I figured I would publish this.
 
 To do:
 1. Figure out how profile editor installs the modhelper, so the fix can be installed in the first place.
 2. Do QA testing
-3. Pull request, Fork, or whatever. I had to get around to learning github at some point.
-
-
+3. Pull request, Fork, or whatever. To get the original updated. I had to get around to learning github at some point.
